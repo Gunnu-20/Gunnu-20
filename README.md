@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Gungun Rathore
 
-<!--
-**Gunnu-20/Gunnu-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Web Developer currently learning and building projects.  
+I enjoy creating interactive web applications and continuously improving my development skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- HTML  
+- CSS  
+- Tailwind CSS  
+- JavaScript  
+- React
+- Node.js
+- Express.js
+- MongoDB
+
+---
+
+## 📚 Currently Learning
+
+- Advance Backend Development  
+- Advanced JavaScript  
+- Data Structures & Algorithms (DSA)  
+- System Design Basics  
+
+---
+
+## 🛠 Projects
+
+### 🐍 Snake Game
+A classic snake game built using **JavaScript**.  
+This project helped me understand **DOM manipulation, game logic, and JavaScript concepts**.
+
+More projects coming soon...
+
+---
+
+## 🎯 My Goals
+
+- Get a **Software Development Internship**
+- Build strong **real-world projects**
+- Contribute in Open Source
+
+---
+
+## 🤝 Connect With Me
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/gungun-rathore-2197143a1/
+
+⭐ If you like my projects, don't forget to **star the repository**!
