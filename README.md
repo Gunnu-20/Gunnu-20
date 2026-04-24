@@ -23,10 +23,9 @@ I enjoy creating interactive web applications and continuously improving my deve
 
 ## 📚 Currently Learning
 
-- Advance Backend Development  
-- Advanced JavaScript  
+- SQL(Basics) 
 - Data Structures & Algorithms (DSA)  
-- System Design Basics  
+- Frontend Design 
 
 ---
 
