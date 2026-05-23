@@ -23,7 +23,7 @@ I enjoy creating interactive web applications and continuously improving my deve
 
 ## 📚 Currently Learning
 
-- SQL(Basics) 
+- Three.js
 - Data Structures & Algorithms (DSA)  
 - Frontend Design 
 
