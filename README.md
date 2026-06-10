@@ -15,6 +15,7 @@ I enjoy creating interactive web applications and continuously improving my deve
 - Node.js
 - Express.js
 - MongoDB
+- SQL
 - Python(Basic)
 - Three.js
 - Frontend Design
@@ -24,7 +25,7 @@ I enjoy creating interactive web applications and continuously improving my deve
 ## 📚 Currently Learning
 
 - Three.js
-- Data Structures & Algorithms (DSA)  
+- SQL(Learning)
 - Frontend Design 
 
 ---
