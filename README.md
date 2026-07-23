@@ -25,7 +25,7 @@ I enjoy creating interactive web applications and continuously improving my deve
 ## 📚 Currently Learning
 
 - Three.js
-- Tyoescript 
+- Typescript 
 - Frontend Design 
 
 ---
