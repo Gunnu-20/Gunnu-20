@@ -15,7 +15,7 @@ I enjoy creating interactive web applications and continuously improving my deve
 - Node.js
 - Express.js
 - MongoDB
-- SQL
+- GSAP
 - Python(Basic)
 - Three.js
 - Frontend Design
